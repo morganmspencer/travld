@@ -1,5 +1,5 @@
 {
-  "name": "@my-app/next",
+  "name": "@travld/next",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@my-app/app": "*",
     "@react-native-async-storage/async-storage": "^1.15.8",
+    "@travld/app": "*",
     "next": "11.1.2",
     "next-fonts": "^1.5.1",
     "next-images": "^1.8.1",
